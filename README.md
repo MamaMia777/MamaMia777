@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MamaMia777</h1>
-<h3 align="center">Currently front-end developer</h3>
-
+<h3 align="center">70% FRONTENDER + 30%BACKENDER
 <h3 align="left">Languages and Tools:</h3>
 <p></p>
 
