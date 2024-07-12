@@ -115,6 +115,6 @@
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="github_followers" />
   </a>
   <a href="https://github.com/MamaMia777?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/yourusername" alt="github_repos" />
+    <img src="https://badges.pufler.dev/repos/MamaMia777" alt="github_repos" />
   </a>
 </p>
