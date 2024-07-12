@@ -107,14 +107,6 @@
 ---
 
 ### 💻 My Projects:
-<p align="left">
-  <a href="https://github.com/yourusername/yourproject1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1" />
-  </a>
-  <a href="https://github.com/yourusername/yourproject2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2" />
-  </a>
-</p>
 
 ---
 
