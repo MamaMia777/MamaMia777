@@ -2,7 +2,7 @@
 <h3 align="center">50% Frontender + 50% Backender</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=MamaMia777&label=Profile%20views&color=0e75b6&style=flat" alt="MamaMia777" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,10 +71,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MamaMia777&show_icons=true&locale=en" alt="MamaMia777" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MamaMia777&" alt="MamaMia777" />
 </p>
 
 ---
@@ -111,8 +111,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="github_followers" />
+  <a href="https://github.com/MamaMia777">
+    <img src="https://img.shields.io/github/followers/MamaMia777?label=Follow&style=social" alt="github_followers" />
   </a>
   <a href="https://github.com/MamaMia777?tab=repositories">
     <img src="https://badges.pufler.dev/repos/MamaMia777" alt="github_repos" />
