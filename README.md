@@ -18,13 +18,6 @@
   <img src="https://skillicons.dev/icons?i=rust,solana,ts,python,postgres,redis,docker,github,git" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MamaMia777&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MamaMia777&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
